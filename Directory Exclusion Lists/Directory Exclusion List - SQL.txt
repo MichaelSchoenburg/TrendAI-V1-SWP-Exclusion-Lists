@@ -1,6 +1,11 @@
 # SQL
 ${Windir}\Cluster\ # If using SQL Clustering
-Q:\ # If using SQL Clustering
+# Q:\ - Zweck: Quorum-Disk bei SQL Server Failover Clustering (haelt Cluster-Metadaten/Witness).
+# Vorteil: Verhindert Scan-Konflikte auf der Quorum-Disk, die bei aktivem Cluster-Betrieb staendig beschrieben wird.
+# Nachteil: Schliesst ein GANZES Laufwerk aus - jede Datei auf Q:\ ist unscannt, auch Malware die dort abgelegt wird.
+# Empfehlung: Nur aktivieren wenn Q:\ nachweislich als Cluster-Quorum-Disk konfiguriert ist.
+#             Besser: Nur den spezifischen Quorum-Pfad ausschliessen (z.B. Q:\MSDTC\) statt des gesamten Laufwerks.
+#             Vor Aktivierung pruefen ob Q:\ wirklich existiert und ausschliesslich als Quorum-Disk genutzt wird.
 ${ProgramFiles}\Microsoft SQL Server\*\COM\
 ${ProgramFiles}\Microsoft SQL Server\MSSQL\Data\
 
