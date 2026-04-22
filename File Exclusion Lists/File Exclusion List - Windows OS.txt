@@ -5,7 +5,6 @@ ${windir}\SoftwareDistribution\DataStore\DataStore.edb
 
 # Trend Micro Recommendations
 pagefile.sys
-${Systemdrive}\ProgramData\NTUser.pol
 ${Windir}\Software Distribution\Datastore\DataStore.edb
 ${Windir}\Software Distribution\Datastore\Logs\Edb*.log
 ${Windir}\Software Distribution\Datastore\Logs\Res1.log
