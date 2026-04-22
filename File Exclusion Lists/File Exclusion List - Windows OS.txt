@@ -5,16 +5,16 @@ ${windir}\SoftwareDistribution\DataStore\DataStore.edb
 
 # Trend Micro Recommendations
 pagefile.sys
-${Windir}\Software Distribution\Datastore\DataStore.edb
-${Windir}\Software Distribution\Datastore\Logs\Edb*.log
-${Windir}\Software Distribution\Datastore\Logs\Res1.log
-${Windir}\Software Distribution\Datastore\Logs\Res2.log
-${Windir}\Software Distribution\Datastore\Logs\Edb.chk
-${Windir}\Software Distribution\Datastore\Logs\tmp.edb
-${Windir}\Software Distribution\Datastore\Logs\hiberfil.sys
-${Windir}\Software Distribution\Datastore\Logs\pagefile.sys
-${Windir}\Software Distribution\Datastore\Logs\Edbres00001.jrs
-${Windir}\Software Distribution\Datastore\Logs\Edbres00002.jrs
+${Windir}\SoftwareDistribution\Datastore\DataStore.edb
+${Windir}\SoftwareDistribution\Datastore\Logs\Edb*.log
+${Windir}\SoftwareDistribution\Datastore\Logs\Res1.log
+${Windir}\SoftwareDistribution\Datastore\Logs\Res2.log
+${Windir}\SoftwareDistribution\Datastore\Logs\Edb.chk
+${Windir}\SoftwareDistribution\Datastore\Logs\tmp.edb
+${Windir}\SoftwareDistribution\Datastore\Logs\hiberfil.sys
+${Windir}\SoftwareDistribution\Datastore\Logs\pagefile.sys
+${Windir}\SoftwareDistribution\Datastore\Logs\Edbres00001.jrs
+${Windir}\SoftwareDistribution\Datastore\Logs\Edbres00002.jrs
 ${Windir}\Security\*.edb
 ${Windir}\Security\*.sdb
 ${Windir}\Security\*.log
