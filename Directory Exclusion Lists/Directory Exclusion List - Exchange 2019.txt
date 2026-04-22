@@ -1,0 +1,24 @@
+# Exchange 2019
+# Referenz: https://learn.microsoft.com/en-us/Exchange/antispam-and-antimalware/windows-antivirus-software?view=exchserver-2019
+${windir}\Cluster\
+${windir}\Temp\OICE_*\
+C:\inetpub\temp\IIS Temporary Compressed Files\
+C:\DAGFileShareWitnesses\DAGFQDN\ #add correct DAGFQDN
+C:\Program Files\Microsoft\Exchange Server\V15\ClientAccess\OAB\
+C:\Program Files\Microsoft\Exchange Server\V15\FIP-FS\
+C:\Program Files\Microsoft\Exchange Server\V15\GroupMetrics\
+C:\Program Files\Microsoft\Exchange Server\V15\Logging\
+C:\Program Files\Microsoft\Exchange Server\V15\Mailbox\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Data\Adam\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Data\IpFilter\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Data\Queue\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Data\SenderReputation\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Data\Temp\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Logs\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Pickup\
+C:\Program Files\Microsoft\Exchange Server\V15\TransportRoles\Replay\
+C:\Program Files\Microsoft\Exchange Server\V15\UnifiedMessaging\Grammars\
+C:\Program Files\Microsoft\Exchange Server\V15\UnifiedMessaging\Prompts\
+C:\Program Files\Microsoft\Exchange Server\V15\UnifiedMessaging\Temp\
+C:\Program Files\Microsoft\Exchange Server\V15\UnifiedMessaging\Voicemail\
+C:\Program Files\Microsoft\Exchange Server\V15\Working\OleConverter\

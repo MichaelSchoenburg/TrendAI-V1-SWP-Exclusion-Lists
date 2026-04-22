@@ -1,0 +1,4 @@
+${Systemdrive}\ProgramData\Trend Micro\ZTSAinstaller\ZTSADownloader.exe
+${Systemdrive}\ProgramData\Trend Micro\ZTSAinstaller\ZTSAInstaller.exe
+${Systemdrive}\Program Files\Trend Micro\ZTSA\ZTSAUpdate.exe
+${Systemdrive}\Program Files\Trend Micro\ZTSA\ZTSAMonitorService.exe

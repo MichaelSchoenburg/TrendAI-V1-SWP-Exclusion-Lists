@@ -1,0 +1,19 @@
+${Systemdrive}\windows\dns\
+${Systemdrive}\windows\microsoft.net\framework64\v4.0.30319\temporary asp.net files\
+${Systemdrive}\windows\ntds\
+${Systemdrive}\windows\ntfrs\
+${Systemdrive}\windows\system32\dhcp\
+${Systemdrive}\windows\system32\inetsrv\
+${Systemdrive}\windows\sysvol\
+${Systemdrive}\ProgramData\Veeam\Backup\NfsDatastore\
+${Systemdrive}\Program Files\Veeam\
+${Systemdrive}\Program Files (x86)\Veeam\
+${Systemdrive}\Program Files\Common Files\Veeam\
+${Systemdrive}\Program Files (x86)\Common Files\Veeam\
+${Systemdrive}\VeeamFLR\
+${Systemdrive}\Windows\Veeam\
+${Systemdrive}\ProgramData\Veeam\
+${Systemdrive}\Windows\VeeamVssSupport\
+${Systemdrive}\Windows\VeeamLogShipper\
+${Systemdrive}\VBRCatalog\
+${Systemdrive}\ProgramData\Veeam\Backup\IRCache\NfsDatastore\

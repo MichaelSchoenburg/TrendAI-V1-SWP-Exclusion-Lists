@@ -1,0 +1,2 @@
+${Systemdrive}\Program Files (x86)\Trend Micro\Control Manager\WebUI\WebApp\widget\repository\widgetPool\product\TMSM\TMSMStatus.db-journal
+${windir}\SoftwareDistribution\DataStore\DataStore.edb

@@ -1,0 +1,3 @@
+# Domain Controller / Active Directory
+${Windir}\Ntds\Temp.edb
+${Windir}\Ntds\Edb.chk

@@ -1,0 +1,18 @@
+# SQL
+${Windir}\WINNT\Cluster\ # If using SQL Clustering
+Q:\ # If using SQL Clustering
+${ProgramFiles}\Microsoft SQL Server\*\COM\
+${ProgramFiles}\Microsoft SQL Server\MSSQL\Data\
+
+#Analysis Services backup files
+${ProgramFiles}\Microsoft SQL Server\MSSQL.X\OLAP\Backup\
+
+#Full-Text catalog files
+${ProgramFiles}\Microsoft SQL Server\MSSQL\FTDATA\ #Default instance:
+${ProgramFiles}\Microsoft SQL Server\MSSQL*\FTDATA\ #Named instance:
+
+#Files in Replication Snapshot folder
+${ProgramFiles}\Microsoft SQL Server\MSSQL*.MSSQLSERVER\MSSQL\ReplData\
+
+#The directory that holds Analysis Services data
+${ProgramFiles}\Microsoft SQL Server\MSSQL.X\OLAP\Log\

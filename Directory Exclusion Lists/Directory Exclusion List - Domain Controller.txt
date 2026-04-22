@@ -1,0 +1,6 @@
+# Trend Micro Recommendations Windows AD
+${Windir}\SYSVOL\
+${Windir}\NTDS\
+${Windir}\ntfrs\
+${Windir}\system32\dhcp\
+${Windir}\system32\dns\

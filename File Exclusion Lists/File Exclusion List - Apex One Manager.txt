@@ -1,0 +1,6 @@
+${Systemdrive}\Program Files (x86)\Trend Micro\OfficeScan\Addon\TMSM\debug.log
+${Systemdrive}\Program Files (x86)\Trend Micro\OfficeScan\Addon\TMSM\Web\TMSMConsoleChannel*.log
+${Systemdrive}\Program Files (x86)\Trend Micro\OfficeScan\Addon\TMSM\Web\TMSMClientChannel\TMSM_ClientChannel.log
+${Systemdrive}\Program Files (x86)\Trend Micro\OfficeScan\Addon\TMSM\AU_Data\AU_Log\TmuDump.txt
+${Systemdrive}\Program Files (x86)\Trend Micro\OfficeScan\iServiceSrv\hiVP*.log
+${Systemdrive}\Program Files (x86)\Trend Micro\OfficeScan\iServiceSrv\iES\debug.log

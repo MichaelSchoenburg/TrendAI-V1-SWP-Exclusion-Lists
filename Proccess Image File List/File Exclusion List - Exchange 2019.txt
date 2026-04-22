@@ -1,0 +1,52 @@
+# Exchange 2019
+# Referenz: https://learn.microsoft.com/en-us/Exchange/antispam-and-antimalware/windows-antivirus-software?view=exchserver-2019
+
+${windir}\System32\Dsamain.exe
+${windir}\System32\inetsrv\inetinfo.exe
+
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\ComplianceAuditService.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\EdgeTransport.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Search\Ceres\HostController\hostcontrollerservice.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.AntispamUpdateSvc.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Diagnostics.Service.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Directory.TopologyService.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.EdgeCredentialSvc.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.EdgeSyncSvc.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Notifications.Broker.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\wsbexchange.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.ProtectedServiceHost.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.RPCClientAccess.Service.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Search.Service.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Servicehost.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Store.Service.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Microsoft.Exchange.Store.Worker.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\UmService.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\UmWorkerProcess.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeCompliance.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeDagMgmt.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeDelivery.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeFrontendTransport.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeHMHost.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeHMWorker.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeMailboxAssistants.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeMailboxReplication.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeRepl.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeSubmission.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeTransport.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeTransportLogSearch.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\MSExchangeThrottling.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Search\Ceres\Runtime\1.0\Noderunner.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\OleConverter.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\Bin\Search\Ceres\ParserServer\ParserServer.exe
+
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FIP-FS\Bin\ScanEngineTest.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FIP-FS\Bin\ScanningProcess.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FIP-FS\Bin\fms.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FIP-FS\Bin\UpdateService.exe
+
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\TransportRoles\agents\Hygiene\Microsoft.Exchange.ContentFilter.Wrapper.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FrontEnd\PopImap\Microsoft.Exchange.Imap4.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\ClientAccess\PopImap\Microsoft.Exchange.Imap4service.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FrontEnd\PopImap\Microsoft.Exchange.Pop3.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\ClientAccess\PopImap\Microsoft.Exchange.Pop3service.exe
+${Systemdrive}\Program Files\Microsoft\Exchange Server\V15\FrontEnd\CallRouter\Microsoft.Exchange.UM.CallRouter.exe

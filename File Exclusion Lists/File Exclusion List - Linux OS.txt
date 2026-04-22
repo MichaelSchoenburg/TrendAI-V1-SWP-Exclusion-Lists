@@ -1,0 +1,2 @@
+# Documentation to general Linux exclusions below
+# https://success.trendmicro.com/dcx/s/solution/1115327-recommended-scan-exclusions-for-deep-security-in-linux?language=en_US&sfdcIFrameOrigin=null

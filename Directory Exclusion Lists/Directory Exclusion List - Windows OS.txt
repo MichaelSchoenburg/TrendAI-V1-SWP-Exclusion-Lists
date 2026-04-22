@@ -1,0 +1,12 @@
+${ProgramFiles}\Microsoft Monitoring Agent\Agent\Health Service State\
+${Windir}\Logs\
+${Systemdrive}\WindowsAzure\Logs\
+${Systemdrive}\Packages\Plugins\Microsoft.EnterpriseCloud.Monitoring.MicrosoftMonitoringAgent\
+
+# Trend Micro Windows Recommendations
+${Windir}\system32\GroupPolicy\
+${Windir}\Cluster\
+${ProgramFiles}\Microsoft Monitoring Agent\Agent\Health Service State\
+${Windir}\Logs\
+${Systemdrive}\WindowsAzure\Logs\
+${Systemdrive}\Packages\Plugins\Microsoft.EnterpriseCloud.Monitoring.MicrosoftMonitoringAgent\

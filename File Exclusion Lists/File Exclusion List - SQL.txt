@@ -1,0 +1,5 @@
+# SQL
+${ProgramFiles}\Microsoft SQL Server\*\MSSQL\Binn\SQLServr.exe
+${ProgramFiles}\Microsoft SQL Server\*\Reporting Services\ReportServer\Bin\ReportingServicesService.exe
+${ProgramFiles}\Microsoft SQL Server\*\OLAP\Bin\MSMDSrv.exe
+${ProgramFiles}\Microsoft SQL Server\*\Shared\SQLDumper.exe
