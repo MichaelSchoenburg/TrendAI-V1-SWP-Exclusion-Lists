@@ -1,5 +1,5 @@
 # SQL
-${Windir}\WINNT\Cluster\ # If using SQL Clustering
+${Windir}\Cluster\ # If using SQL Clustering
 Q:\ # If using SQL Clustering
 ${ProgramFiles}\Microsoft SQL Server\*\COM\
 ${ProgramFiles}\Microsoft SQL Server\MSSQL\Data\
