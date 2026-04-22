@@ -1,5 +1,5 @@
+# 
 ${Systemdrive}\windows\dns\
-${Systemdrive}\windows\microsoft.net\framework64\v4.0.30319\temporary asp.net files\
 ${Systemdrive}\windows\system32\inetsrv\
 ${Systemdrive}\ProgramData\Veeam\Backup\NfsDatastore\
 ${Systemdrive}\Program Files\Veeam\
