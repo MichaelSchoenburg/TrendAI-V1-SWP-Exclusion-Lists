@@ -1,9 +1,9 @@
 # Trend Micro Windows Recommendation
-${Systemdrive}\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe
-${Systemdrive}\Program Files\Windows Defender Advanced Threat Protection\SenseCncProxy.exe
-${Systemdrive}\Program Files\Windows Defender Advanced Threat Protection\SenseSampleUploader.exe
-${Systemdrive}\Program Files\Windows Defender Advanced Threat Protection\SenseIR.exe
-${Systemdrive}\Program Files\Windows Defender Advanced Threat Protection\SenseCM.exe
-${Systemdrive}\Program Files\Windows Defender\MsMpEng.exe
-${Systemdrive}\Program Files\Windows Defender\MpCmdRun.exe
-${Systemdrive}\Program Files\Windows Defender\NisSrv.exe
+${ProgramFiles}\Windows Defender Advanced Threat Protection\MsSense.exe
+${ProgramFiles}\Windows Defender Advanced Threat Protection\SenseCncProxy.exe
+${ProgramFiles}\Windows Defender Advanced Threat Protection\SenseSampleUploader.exe
+${ProgramFiles}\Windows Defender Advanced Threat Protection\SenseIR.exe
+${ProgramFiles}\Windows Defender Advanced Threat Protection\SenseCM.exe
+${ProgramFiles}\Windows Defender\MsMpEng.exe
+${ProgramFiles}\Windows Defender\MpCmdRun.exe
+${ProgramFiles}\Windows Defender\NisSrv.exe
