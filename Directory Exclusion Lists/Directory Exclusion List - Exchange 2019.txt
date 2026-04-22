@@ -1,4 +1,4 @@
-${Systemdrive}# Exchange 2019
+${Systemdrive} # Exchange 2019
 # Referenz: https://learn.microsoft.com/en-us/Exchange/antispam-and-antimalware/windows-antivirus-software?view=exchserver-2019
 ${windir}\Cluster\
 ${windir}\Temp\OICE_*\
