@@ -1,6 +1,5 @@
 # Antivirus Exclusions for Veeam Backup & Replication: https://www.veeam.com/kb1999
 ${Systemdrive}\windows\dns\
-${Systemdrive}\windows\system32\inetsrv\
 ${Systemdrive}\ProgramData\Veeam\Backup\NfsDatastore\
 ${Systemdrive}\Program Files\Veeam\
 ${Systemdrive}\Program Files (x86)\Veeam\
