@@ -3,7 +3,7 @@
 ${windir}\Cluster\
 ${windir}\Temp\OICE_*\
 C:\inetpub\temp\IIS Temporary Compressed Files\
-C:\DAGFileShareWitnesses\DAGFQDN\ #add correct DAGFQDN
+C:\DAGFileShareWitnesses\DAGFQDN\ # Hier den korrekten DAG-FQDN einfügen!
 C:\Program Files\Microsoft\Exchange Server\V15\ClientAccess\OAB\
 C:\Program Files\Microsoft\Exchange Server\V15\FIP-FS\
 C:\Program Files\Microsoft\Exchange Server\V15\GroupMetrics\
