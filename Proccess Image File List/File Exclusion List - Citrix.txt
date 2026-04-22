@@ -1,0 +1,2 @@
+C:\Program Files\Citrix\User Profile Manager\UserProfileManager.exe
+C:\Program Files\Citrix\Server Resource Management\Memory Optimization Management\Program\CtxSFOSvc.exe
