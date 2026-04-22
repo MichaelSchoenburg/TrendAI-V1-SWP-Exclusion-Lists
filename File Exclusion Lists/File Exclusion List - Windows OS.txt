@@ -1,11 +1,3 @@
-${windir}\Prefetch*.pf
-${Systemdrive}\inetpub\logs*.log
-# ${windir}\System32\winevt\logs*.evtx # Windows Event Logs sind ein primäres Angriffsziel -- Angreifer löschen oder manipulieren sie, um Spuren zu verwischen. Malware, die Event-Log-Dateien modifiziert oder gefälschte Logs einschleust, bleibt mit dieser Ausnahme unentdeckt.
-#  - Vorteil: Verhindert Performance-Einbrüche und Scan-Fehler, da .evtx-Dateien permanent beschrieben werden.
-#  - Nachteil: Manipulation an Event Logs wird nicht erkannt.
-#  - Empfehlung: Abwägen, ob ein SIEM vorhanden ist, das Event-Log-Integrität separat überwacht. Falls ja, ist die Ausnahme vertretbar. Falls nein, nicht übernehmen.
-${windir}\SoftwareDistribution\DataStore\DataStore.edb
-
 # Trend Micro Recommendations
 pagefile.sys
 ${Windir}\SoftwareDistribution\Datastore\DataStore.edb
@@ -22,5 +14,8 @@ ${Windir}\Security\*.log
 ${Windir}\Security\*.chk
 ${windir}\Prefetch*.pf
 ${Systemdrive}\inetpub\logs*.log
-${windir}\System32\winevt\logs*.evtx
+# ${windir}\System32\winevt\logs*.evtx # Windows Event Logs sind ein primäres Angriffsziel -- Angreifer löschen oder manipulieren sie, um Spuren zu verwischen. Malware, die Event-Log-Dateien modifiziert oder gefälschte Logs einschleust, bleibt mit dieser Ausnahme unentdeckt.
+#  - Vorteil: Verhindert Performance-Einbrüche und Scan-Fehler, da .evtx-Dateien permanent beschrieben werden.
+#  - Nachteil: Manipulation an Event Logs wird nicht erkannt.
+#  - Empfehlung: Abwägen, ob ein SIEM vorhanden ist, das Event-Log-Integrität separat überwacht. Falls ja, ist die Ausnahme vertretbar. Falls nein, nicht übernehmen.
 ${windir}\SoftwareDistribution\DataStore\DataStore.edb
