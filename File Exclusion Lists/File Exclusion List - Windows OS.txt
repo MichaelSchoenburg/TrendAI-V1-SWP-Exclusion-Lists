@@ -11,8 +11,6 @@ ${Windir}\SoftwareDistribution\Datastore\Logs\Res1.log
 ${Windir}\SoftwareDistribution\Datastore\Logs\Res2.log
 ${Windir}\SoftwareDistribution\Datastore\Logs\Edb.chk
 ${Windir}\SoftwareDistribution\Datastore\Logs\tmp.edb
-${Windir}\SoftwareDistribution\Datastore\Logs\hiberfil.sys
-${Windir}\SoftwareDistribution\Datastore\Logs\pagefile.sys
 ${Windir}\SoftwareDistribution\Datastore\Logs\Edbres00001.jrs
 ${Windir}\SoftwareDistribution\Datastore\Logs\Edbres00002.jrs
 ${Windir}\Security\*.edb
