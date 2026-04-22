@@ -1,0 +1,1 @@
+Die hier vorliegenden Dateien können Sie nicht in SWP oder DS importieren. Importieren kann man nur aufwändig formatierte XML-Dateien. Diese Dateien dienen als Vorlage für copy and paste, da dieses Format (nur Text) einfacher zu Versionieren ist.
