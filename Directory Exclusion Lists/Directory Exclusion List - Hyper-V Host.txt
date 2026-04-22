@@ -1,6 +1,6 @@
 # Hyper-V
 # Referenz: https://learn.microsoft.com/en-US/troubleshoot/windows-server/virtualization/antivirus-exclusions-for-hyper-v-hosts
 ${Systemdrive}\ProgramData\Microsoft\Windows\Hyper-V\
-${Systemdrive}\Users\Public\Documents\Hyper-V\Virtual Hard Disks\
+${Systemdrive}\Users\Public\Documents\Hyper-V\Virtual Hard Disks\ # Dies ist nur der Standard-Speicherort für virtuelle Volumen. Denken Sie daran ihre individuellen Speicherorte ebenfalls auszuschließen!
 ${Systemdrive}\ProgramData\Microsoft\Windows\Hyper-V\Snapshots\
 ${Systemdrive}\ClusterStorage\
