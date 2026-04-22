@@ -3,3 +3,8 @@ ${ProgramFiles}\Microsoft SQL Server\*\MSSQL\Binn\SQLServr.exe
 ${ProgramFiles}\Microsoft SQL Server\*\Reporting Services\ReportServer\Bin\ReportingServicesService.exe
 ${ProgramFiles}\Microsoft SQL Server\*\OLAP\Bin\MSMDSrv.exe
 ${ProgramFiles}\Microsoft SQL Server\*\Shared\SQLDumper.exe
+xtp_*_*_*.dll
+xtp_*_*_*.obj
+xtp_*_*_*.out
+xtp_*_*_*.pdb
+xtp_*_*_*.xml
