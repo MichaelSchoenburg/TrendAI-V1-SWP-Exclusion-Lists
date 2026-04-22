@@ -1,5 +1,4 @@
-# ${Windir}\system32\GroupPolicy\ # Nur, wenn es zu starken Performance-Einbußen kommt! Vorteil: Verhindert Performance-Einbrüche bei GPO-Verarbeitung. Nachteil / Risiko: Group Policy ist ein hochattraktives Angriffsziel. Angreifer, die sich Domänen-Admin-Rechte verschaffen (z.B. via Pass-the-Hash), modifizieren häufig GPO-Dateien, um persistente Backdoors oder
-  Ransomware im gesamten Netz auszurollen. Eine Ausnahme hier verhindert die Erkennung solcher Manipulationen.
+# ${Windir}\system32\GroupPolicy\ # Nur, wenn es zu starken Performance-Einbußen kommt! Vorteil: Verhindert Performance-Einbrüche bei GPO-Verarbeitung. Nachteil / Risiko: Group Policy ist ein hochattraktives Angriffsziel. Angreifer, die sich Domänen-Admin-Rechte verschaffen (z.B. via Pass-the-Hash), modifizieren häufig GPO-Dateien, um persistente Backdoors oder Ransomware im gesamten Netz auszurollen. Eine Ausnahme hier verhindert die Erkennung solcher Manipulationen.
 ${Windir}\Cluster\
 ${ProgramFiles}\Microsoft Monitoring Agent\Agent\Health Service State\
 ${Windir}\Logs\
