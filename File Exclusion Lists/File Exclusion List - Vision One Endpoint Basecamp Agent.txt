@@ -3,8 +3,6 @@ ${Systemdrive}\Program Files (x86)\Trend Micro\Endpoint Basecamp\modules\ceta\CE
 ${Systemdrive}\Program Files (x86)\Trend Micro\Endpoint Basecamp\modules\wsc\WSCommunicator.exe
 ${Systemdrive}\Program Files\Trend Micro\Cloud Endpoint\CloudEndpointService.exe
 ${Systemdrive}\Program Files (x86)\Trend Micro\EndpointResponse\ResponseService.exe
-${Systemdrive}\Program Files\Trend Micro\ZTSA\ZTSAMonitorService.exe
-${Systemdrive}\Program Files\Trend Micro\ZTSA\ZTSAWindows.exe
 /opt/TrendMicro/EndpointBasecamp/bin/tmxbc
 /opt/TrendMicro/vls_agent/vls_agent
 /opt/TrendMicro/vls_agent/vls_am
